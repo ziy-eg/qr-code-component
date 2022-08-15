@@ -21,14 +21,14 @@
         margin-top: 5px;
     }
     
-    #scan-card p:nth-of-type(1){
+    #scan-card h1 {
         font-weight: 700;
         font-size: 0.8rem;
         margin-bottom: 5px;
         text-align: center;
     }
     
-    #scan-card p:nth-of-type(2){
+    #scan-card p {
         font-weight: 400;
         font-size: 0.6rem;
         margin-top: 5px;
